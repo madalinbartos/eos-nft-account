@@ -39,5 +39,5 @@ npm run start
 4. Run tests
 
 ```
-npm run test
+npm run test a
 ```
